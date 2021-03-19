@@ -1,0 +1,16 @@
+CDMX,Palacio de Bellas Artes,Centro Histórico,Villa de Guadalupe,Chapultepec
+Guadalajara,Teatro Degollado,Instituto Cultural Cabañas,Plaza del Mariachi,Templo Expiatorio
+Monterrey,Chipinque,Grutas de Garcia,Paseo de Santa Lucia,Parque Fundidora,MARCO
+Puebla,Capilla del Rosario,Estrella de Puebla,Zócalo,Callejón de los Sapos,Biblioteca Palafoxiana
+Queretaro,Peña de Bernal,Acueducto de Querétaro,Plaza de Armas de Querétaro,Centro Histórico
+Morelia,Pátzcuaro,Calzada de Guadalupe,Conservatorio de las Rosas,Acueducto de Morelia,Reserva de la Biosfera Mariposa Monárca
+Veracruz,Acuario De Veracruz,San Juan de Ulúa,Malecón de Veracruz,El Tajín,Rápidos de Jalcomulco 
+Oaxaca,Hierve El Agua,Monte Albán,Mitla,Árbol del Tule,Centro Histórico de Oaxaca  
+Chiapas,Palenque,San Cristóbal de las Casas,Cascada de Agua Azul,Cañón del Sumidero,Selva Lacandona,Bonampak 
+Tlaxcala,Huamantla,Haciendas Pulqueras,Santuario de las Luciérnagas,Cacaxtla,La Malinche
+Nayarit,Riviera Nayarit,Punta de Mita,Tepic,Rincón de Guayabitos,Islas Marietas,Chacala,Ixtlán del Río  
+Tijuana,Isla de Guadalupe,Parque Morelos,Plaza Río Tijuana,Centro Cultural Tijuana,Casa de la Cultura de Tijuana,Playa Rosarito  
+Acapulco,Parque Acuático El Rollo,​La Quebrada,Punta Diamante,Playa Barra Vieja,Playa Caleta y Caletilla,Parque Papagayo,Playa Icacos     
+Campeche,Centro Histórico,El Malecón,La Biosfera De Los Petenes,Zona Arqueológica De Edzná,Playa Bahamitas
+Hidalgo,Grutas de Tolantongo,Prismas basálticos de Santa María Regla,Bosque de las Truchas,Huasca de Ocampo,Zona Arqueológica de Tula,Parque Nacional El Chico
+ 
